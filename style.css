@@ -575,6 +575,11 @@ h4{margin-block-end: 0em; margin-block-start: 0.5em; color: #fff; font-size: 1.6
   .container1 {
     max-width: 720px;
   }
+	
+	
+	.noi{justify-content: flex-start !important}
+	
+	
   /* navbar css for mobile start */
   .nav-toggler{
     display: block;
