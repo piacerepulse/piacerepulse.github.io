@@ -475,13 +475,13 @@ align-self: center;
 
 
 
-.item11{position:absolute; width:100%; height:100%;z-index:500; margin-left:-16%; margin-top:0px;
+.item11{position:absolute; width:100%; height:100%;z-index:500; margin-left:-16%; margin-top:0px; top:0;
   background: radial-gradient(#111342 25%, transparent 45%); animation: pulse-red 2s infinite;}
 
-.item21{position:absolute; width:100%; height:100%;z-index:400; animation: pulse-red 6s infinite;
+.item21{position:absolute; width:100%; height:100%;z-index:400; animation: pulse-red 6s infinite; top:0;
   background: radial-gradient(circle at 50% 50%, #CD2D58 45%, transparent 70%)}
 
-.item31{position:absolute; width:100%; height:100%;z-index:300; animation: pulse-red 4s infinite;
+.item31{position:absolute; width:100%; height:100%;z-index:300; animation: pulse-red 4s infinite; top:0;
   background: radial-gradient(circle at 50% 50%, #C39C22 65%, transparent 70%)}
 
 
